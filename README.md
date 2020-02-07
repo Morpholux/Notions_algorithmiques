@@ -1,4 +1,2 @@
 # Notions_algorithmiques
-En vue du cours Algorithmie de base et interactivité
-
-Matériel préparé en vue du remplacement dans le cours donné par Sofian Audry
+Matériel préparé en vue du remplacement dans le cours "Algorithmie de base et interactivité", donné par Sofian Audry
